@@ -43,9 +43,9 @@
     "kurento-client-core": "Kurento/kurento-client-core-js#master",
     "kurento-client-elements": "Kurento/kurento-client-elements-js#master",
     "kurento-client-filters": "Kurento/kurento-client-filters-js#master",
-    "kurento-jsonrpc": "progre/kurento-jsonrpc-js#decode-message-from-buffer",
+    "kurento-jsonrpc": "progre/kurento-jsonrpc-js#fork",
     "promisecallback": "0.0.4",
-    "reconnect-ws": "progre/reconnect-ws#version-up-websocket-stream",
+    "reconnect-ws": "progre/reconnect-ws#fork",
     "minimist": "^1.2.0"
   },
   "devDependencies": {
